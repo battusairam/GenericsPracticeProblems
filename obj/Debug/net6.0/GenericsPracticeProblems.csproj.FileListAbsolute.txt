@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\bin\Debug\net6.0\GenericsPracticeProblems.exe
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\bin\Debug\net6.0\GenericsPracticeProblems.deps.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\bin\Debug\net6.0\GenericsPracticeProblems.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\bin\Debug\net6.0\GenericsPracticeProblems.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\bin\Debug\net6.0\GenericsPracticeProblems.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\refint\GenericsPracticeProblems.dll
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.pdb
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\GenericsPracticeProblems.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\RFP(Remap)\GenericsPracticeProblems\obj\Debug\net6.0\ref\GenericsPracticeProblems.dll
